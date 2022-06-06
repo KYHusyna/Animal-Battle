@@ -1,0 +1,14 @@
+Create abstract class Animal, and heir classes Mammals, birds, Water_beast.
+Сharacters with some general, and specific characteristics.
+
+
+Realise write/read file data, by write animal characteristics to .txt file, and read from them
+
+Created methods to calculate damage, resistance. Have chance to super-damage or miss
+
+At user interface possible to:
+- choose animal
+- confirm choose and get all information about animal characteristics
+- You can see all characteristics use in game
+- You can change any characteristics, by set you value
+- See winner and history of battle
